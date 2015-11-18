@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "564c2ad8da72ac73170f8f60",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Lula",
+      "last": "Trevino"
+    },
+    "company": "CANDECOR"
+  },
+  {
+    "_id": "564c2ad8b0c557e80c0954fa",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Abby",
+      "last": "Weaver"
+    },
+    "company": "BALUBA"
+  },
+  {
+    "_id": "564c2ad8c258306083e05815",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Page",
+      "last": "Mason"
+    },
+    "company": "COMCUR"
+  },
+  {
+    "_id": "564c2ad8137c2b2350409037",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Earlene",
+      "last": "Elliott"
+    },
+    "company": "SLOGANAUT"
+  },
+  {
+    "_id": "564c2ad85299b31602b29d98",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "name": {
+      "first": "Daugherty",
+      "last": "Lawson"
+    },
+    "company": "FARMEX"
+  }
+]
